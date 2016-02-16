@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cors": "^2.4.0",
+    "datejs": "~1.0.0-rc1",
+    "express": "^4.5.0",
+    "moment": "^2.8.3",
+    "moment-timezone": "^0.2.2",
+    "msexcel-builder": "0.0.2",
+    "prayer-times": "^0.1.0"
+  }
+}
